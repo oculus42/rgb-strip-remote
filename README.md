@@ -1,6 +1,6 @@
 # RGB LED Strip Remote
 
-The 44-key Remote for LED Wholesalers RGB LED Strips return a set of codes.  
+The 44-key Remote for LED Wholesalers RGB LED Strips (possibly others) return a set of code with NEC encoding.  
 These are the Hex equivalents of those buttons, read using [IRlib2](https://github.com/cyborg5/IRLib2)
 
 | Column 1 | Column 2 | Column 3 | Column 4 |
